@@ -1,0 +1,19 @@
+.jumbotron {
+background-color: #25A8DD;
+}
+
+.navbar 
+{
+background-color: #25A8DD;
+}
+
+.tabela{
+	font-style: italic;
+	color: #25A8DD;  
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+color: #fff;
+background-color: red;
+border-color: red;
+}
